@@ -1,12 +1,16 @@
 ---
 title: Getting Started
 owner: "@tdmdh"
-tags: [intro, setup]
+tags:
+  - intro
+  - setup
+  - auth
 sidebar_position: 2
 custom: {a: 1}
 id: be92bcfa-a771-4ac2-8da1-ffeeaa90de35
 covers:
   - src/auth/**
+  - src/session/**
 ---
 
 # Getting Started
