@@ -45,3 +45,5 @@ See the [spec][spec-ref] for details.
 ![diagram](./img/diagram.png)
 
 [spec-ref]: https://example.com/spec "Spec"
+
+Edited line about the new jwt signer and key rotation policy 
