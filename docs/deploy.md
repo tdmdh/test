@@ -1,6 +1,7 @@
 ---
 title: Deploy
 id: ce27c253-171b-46dd-bd5b-22633b98d923
+owner: docs-owner@haftarou.dev.test
 ---
 
 # Deploy
