@@ -34,7 +34,7 @@ npm install lornian
 <details>
 <summary>More info</summary>
 
-Hidden content here.
+Hidden content here, updated.
 
 </details>
 
