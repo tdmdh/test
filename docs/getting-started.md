@@ -5,6 +5,8 @@ tags: [intro, setup]
 sidebar_position: 2
 custom: {a: 1}
 id: be92bcfa-a771-4ac2-8da1-ffeeaa90de35
+covers:
+  - src/auth/**
 ---
 
 # Getting Started
@@ -34,7 +36,7 @@ npm install lornian
 <details>
 <summary>More info</summary>
 
-Hidden content, take two.
+Hidden content, take three.
 
 </details>
 
