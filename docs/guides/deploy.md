@@ -6,7 +6,7 @@ title: Deploy
 
 ## Build
 
-Run the build step to produce artifacts.
+Execute the build step to make artifacts.
 
 ## Release
 
