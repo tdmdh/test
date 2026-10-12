@@ -7,7 +7,7 @@ id: ce27c253-171b-46dd-bd5b-22633b98d923
 
 ## Build
 
-Execute the full build step to make bundles.
+Execute the full build step to make tarballs.
 
 ## Release
 
