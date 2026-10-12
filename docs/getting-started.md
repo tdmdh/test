@@ -59,4 +59,4 @@ Check the logs first.
 
 ## Sessions
 
-Access tokens expire after 60 minutes; clients must refresh them hourly.
+Access tokens expire after 15 minutes; clients must refresh them frequently.
