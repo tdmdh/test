@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-owner: "@tdmdh"
+owner: docs-member@haftarou.dev.test
 tags:
   - intro
   - setup
@@ -11,6 +11,7 @@ id: be92bcfa-a771-4ac2-8da1-ffeeaa90de35
 covers:
   - src/auth/**
   - src/session/**
+  - src/jwt/**
 ---
 
 # Getting Started
