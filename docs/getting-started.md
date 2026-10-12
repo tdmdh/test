@@ -4,11 +4,12 @@ owner: "@tdmdh"
 tags: [intro, setup]
 sidebar_position: 2
 custom: {a: 1}
+id: be92bcfa-a771-4ac2-8da1-ffeeaa90de35
 ---
 
 # Getting Started
 
-Welcome to the project. Install it first.
+Greetings to the project. Install it first.
 
 ## Install
 
