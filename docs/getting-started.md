@@ -46,4 +46,4 @@ See the [spec][spec-ref] for details.
 
 [spec-ref]: https://example.com/spec "Spec"
 
-Edited line about the new jwt signer and key rotation policy Another edit for the publish failure scenario 
+Edited line about the new jwt signer and key rotation policy Another edit for the publish failure scenario Third edit to trigger a failed publish 
