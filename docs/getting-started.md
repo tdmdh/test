@@ -10,7 +10,7 @@ order: 1
 
 # Getting Started
 
-Greetings to the project. Install it first.
+Greetings to the project. Install it now.
 
 ## Install
 
