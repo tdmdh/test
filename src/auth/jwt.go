@@ -12,3 +12,6 @@ const RefreshWindow = 5 * 60 // seconds; access tokens now live 10 minutes (was 
 
 // SessionLimit caps concurrent sessions per user.
 const SessionLimit = 5
+
+// IdleTimeout is how long a session may sit idle before re-login is required.
+const IdleTimeout = 30 * 60 // seconds
