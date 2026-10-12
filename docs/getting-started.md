@@ -1,16 +1,14 @@
 ---
 title: Getting Started
-owner: docs-owner@haftarou.dev.test
+owner: "@tdmdh"
 tags: [intro, setup]
 sidebar_position: 2
 custom: {a: 1}
-id: be92bcfa-a771-4ac2-8da1-ffeeaa90de35
-order: 1
 ---
 
 # Getting Started
 
-Greetings to the project. Install it now.
+Welcome to the project. Install it first.
 
 ## Install
 
@@ -20,8 +18,8 @@ Greetings to the project. Install it now.
 * Second bullet
 * Third bullet
 
-* [ ] todo item one
-* [x] done item two
+- [ ] todo item one
+- [x] done item two
 
 | Name | Value |
 |------|-------|
