@@ -56,3 +56,7 @@ Edited line about the new jwt signer and key rotation policy Another edit for th
 ## Troubleshooting
 
 Check the logs first.
+
+## Sessions
+
+Access tokens expire after 60 minutes; clients must refresh them hourly.
